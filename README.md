@@ -1,2 +1,2 @@
 # Fusion
-![Скриншот Сайта](https://yadi.sk/i/MxcIdIwlJB6-Ew)
+![Скриншот Сайта](https://imgur.com/a/WYpISEq)
