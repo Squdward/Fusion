@@ -1,0 +1,23 @@
+.slick-dots
+    position: absolute
+    bottom: 120px
+    text-align: center
+    left: 50%
+    margin-right: -50%
+    transform: translateX(-50%)
+    z-index: 10
+    & li
+        display: inline
+        margin-right: 30px
+        cursor: pointer
+        &:last-child
+            margin-right: 0
+        & button
+            border: none
+            height: 3px
+            width: 30px
+            overflow: hidden
+            background-color: #5c5c5c                
+    .slick-active
+        & button 
+            background-color: #feb960
